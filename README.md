@@ -2,7 +2,7 @@
   <img src="./assets/programmer-coding-anime.png" width="250" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sangram Behera</h1>
+<h1 align="center">Hi 👋, I'm Satyanarayan Khatua</h1>
 <h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React | MCA Graduate</h3>
 
 <p align="center">
