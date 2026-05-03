@@ -66,8 +66,8 @@
 
 ## 📌 Featured Projects
 
-🔹 **Plant Disease Detection**  
-👉 CNN-based ML model for plant disease prediction  
+🔹 **AI vs Human Generated Image**  
+👉 CNN-based ML model for Detecting Ai generated Image 
 
 🔹 **Bank Management System**  
 👉 Full-stack app using Spring Boot, React, MySQL  
@@ -93,13 +93,13 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:sangrambehera2001@gmail.com">
+  <a href="satyanarayankhatua2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/sbehera2001/">
+  <a href="https://www.linkedin.com/in/satyanarayankhatua/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/_gudu_333/">
+  <a href="https://www.instagram.com/am_5onu/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
