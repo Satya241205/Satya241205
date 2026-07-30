@@ -28,7 +28,7 @@ Building scalable web applications with clean architecture and solving real-worl
 
 - 🎓 MCA Graduate (Berhampur University)
 - 💻 Java Full Stack Developer
-- 🌱 Currently learning Spring Security, Docker, AWS & Microservices
+- 🌱 Currently learning Spring Security, Docker, AWS & Microservices, GenAI
 - 🔥 Passionate about Backend Development
 - 📚 Daily DSA Problem Solver
 - 🚀 Love building scalable applications
